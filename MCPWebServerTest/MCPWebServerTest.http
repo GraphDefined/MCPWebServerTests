@@ -1,0 +1,6 @@
+@MCPWebServerTest_HostAddress = http://localhost:5181
+
+GET {{MCPWebServerTest_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
