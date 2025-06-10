@@ -1,0 +1,3 @@
+[submodule "libs/MCP"]
+	path = libs/MCP
+	url = ssh://git@git.graphdefined.com:5001/Vanaheimr/MCP.git
