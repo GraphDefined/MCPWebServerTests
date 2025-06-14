@@ -1,3 +1,3 @@
-# Model Context Protocol (MCP) WebServer Test
+# Model Context Protocol (MCP) WebServer Tests
 
-A small test tool for starting a C# MCP Server on the command line and for unit tests.
+Testing tools for MCP webservers and clients on the command line, via plain HTTP, and for unit tests.

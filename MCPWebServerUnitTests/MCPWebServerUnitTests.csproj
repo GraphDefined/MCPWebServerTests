@@ -13,4 +13,9 @@
     <PackageReference Include="NUnit3TestAdapter" Version="5.0.0" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\libs\Hermod\HermodTests\HermodTests.csproj" />
+    <ProjectReference Include="..\libs\MCP\MCP\MCP.csproj" />
+  </ItemGroup>
+
 </Project>

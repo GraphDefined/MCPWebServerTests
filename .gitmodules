@@ -1,3 +1,9 @@
 [submodule "libs/MCP"]
 	path = libs/MCP
 	url = ssh://git@git.graphdefined.com:5001/Vanaheimr/MCP.git
+[submodule "libs/Styx"]
+	path = libs/Styx
+	url = ssh://git@git.graphdefined.com:5001/Vanaheimr/Styx.git
+[submodule "libs/Hermod"]
+	path = libs/Hermod
+	url = ssh://git@git.graphdefined.com:5001/Vanaheimr/Hermod.git
